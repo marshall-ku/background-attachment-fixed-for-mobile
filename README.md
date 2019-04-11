@@ -1,1 +1,2 @@
-# background-attachment-fixed-for-mobile
+# background-attachment : fixed; for Mobile Devices
+
